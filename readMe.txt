@@ -1,4 +1,4 @@
-                            ECE GY 6193 Lab 2: Branch Prediction
+# ECE GY 6193 Lab 2: Branch Prediction
 
 NetID:ssv315
 
